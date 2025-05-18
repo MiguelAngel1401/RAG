@@ -35,7 +35,7 @@ Este proyecto implementa un sistema RAG (Retrieval-Augmented Generation) que per
 
 
 
-  Ejemplos de consultas y respuestas esperadas
+Ejemplos de consultas y respuestas esperadas
 
  `¿Qué es SellMoreTrips.IA?`                
  SellMoreTrips.IA es una plataforma impulsada por IA que ayuda a agentes de viaje a automatizar sus ventas. 
