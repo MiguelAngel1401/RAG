@@ -8,7 +8,7 @@ Este proyecto implementa un sistema RAG (Retrieval-Augmented Generation) que per
 
 - Permite subir un PDF y transformarlo en fragmentos indexados.
 - Genera embeddings con `nomic-embed-text`.
-- Responde preguntas usando un modelo local (como `llama3`).
+- Responde preguntas usando un modelo local (como `llama3.2:3b`).
 - Usa recuperación de contexto relevante del PDF.
 - Usa Streamlit como interfaz conversacional.
 
